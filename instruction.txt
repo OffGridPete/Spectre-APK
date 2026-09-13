@@ -2,7 +2,7 @@ SPECTRE — install for a test phone
 ==================================
 Receive-only Wi-Fi access-point and Bluetooth LE watcher for Android.
 Package: app.spectre
-Needs Android 10 or newer (API 29+). Built and run on Samsung Galaxy A54.
+Needs Android 10 or newer (API 29+). Tested on a Galaxy A54; meant for most Android 10+ phones.
 
 This card
 ---------
@@ -101,18 +101,18 @@ You can also grant later:
   5. If both counts stay at zero: Location, Wi-Fi, and Bluetooth must be
      on at the system level, not only inside Spectre.
 
-Samsung / One UI (recommended after first launch):
+After first launch (stay scanning):
   • In Spectre Settings turn on “Allow background usage” (Battery page,
     that Android switch).
-  • Then “Unrestricted battery”. Some phones (Samsung among them) do not
-    open onto Unrestricted / Optimized / Restricted. If you only see
-    Allow background usage, tap that row (the words, not the switch)
-    to click through and select Unrestricted.
+  • Then “Unrestricted battery”. Some phones do not open onto
+    Unrestricted / Optimized / Restricted. If you only see Allow
+    background usage, tap that row (the words, not the switch) to click
+    through and select Unrestricted.
   • Keep screen on ships on. Leave it on while you are watching Live, or
-    Samsung may park BLE when the screen locks. Turn it off when you pocket
+    some phones park BLE when the screen locks. Turn it off when you pocket
     the phone.
-  • Android Settings → Battery → Background usage limits
-    (or “Put unused apps to sleep”): do not sleep Spectre.
+  • If the phone has “Background usage limits” or “Put unused apps to
+    sleep,” do not sleep Spectre.
 
 Max collection (battery is the cost) — full walk-through:
   User Manual §4.5. In short: Location Precise + Wi-Fi + Bluetooth on at
