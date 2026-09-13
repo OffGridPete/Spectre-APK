@@ -380,8 +380,8 @@ caution) and which report to tap: User Manual chapter 12.
   phone first if you need them.
 
 
-Limits (honest)
----------------
+Limits
+------
   • Stock Android: no Wi-Fi clients or probe-only stations, and no
     802.11 monitor mode
   • BLE advertisements only. No Bluetooth Classic inquiry (HC-05 / HC-06
