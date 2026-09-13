@@ -8,7 +8,14 @@ I have been using it and iterating on it for a while now, and it has been useful
 
 This is a hobby — something I do for fun in my spare time. There is no Spectre backend. There are no ads. Everything lives on the phone. This repository is the sideload set: APK, instruction card, and user manual.
 
-If you spot an error, something stupid, or have a feature idea — in the App or the documentation — please open a GitHub issue. This is how we make it better. I hope you find it as useful as I have. I look forward to hearing how it goes.
+If you spot an error, something stupid, or have a feature idea — in the app or the documentation — please [open an issue on this repository](https://github.com/OffGridPete/Spectre-APK/issues). This is how we make it better. I hope you find it as useful as I have. I look forward to hearing how it goes.
+
+## First steps
+
+1. Download `Spectre.apk` from this repo (the file in GitHub, not a copy from chat).
+2. Check its SHA-256 against the hash under **Put it on a phone**.
+3. Sideload it. Spectre is not on the Play Store. Play Protect may warn that the app is not from Play — expected. Install anyway only if you trust this file. Steps: `instruction.txt`.
+4. Read the Notice in `Spectre_User_Manual.pdf` (page after the cover) and the first-run **Disclaimer and license** screen before you scan.
 
 ## Safety & disclaimer
 

@@ -90,7 +90,7 @@ You can also grant later:
 
 4. First launch checklist
 -------------------------
-  1. First launch shows a Disclaimer. Check “I have read this and I agree,”
+  1. First launch shows Disclaimer and license. Check “I have read this and I agree,”
      then Continue. Radios do not start until you do.
   2. Grant the permission screen. Radios do not start until that set is complete.
   3. A notification “Spectre scanning” appears. Leave it. Stop on that
@@ -398,7 +398,7 @@ filter presets (§8.4), the stock catalog and class colors (§9.5, Appendix B),
 Decode fields (how to type a map §9.6.1–§9.6.5, stock maps §9.6.6),
 alerts / stock bookmarks / voice (§10.1–10.2.1), logging (CSV/JSONL: lat,lon, vendor_ie, §11.2–11.3),
 Signature candidates (§5.6.1, §11.5), Moving with you, New detections only,
-Field Strategies, Debrief / AI Export (sit-level and one-radio on detail;
+Field Playbooks, Debrief / AI Export (sit-level and one-radio on detail;
 RAM window and trip strategy §11.4.1).
 
 Off Grid Pete LLC    Instagram @OffGridPete    X @OGridPete
