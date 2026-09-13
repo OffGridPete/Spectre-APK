@@ -6,12 +6,12 @@ Needs Android 10 or newer (API 29+). Tested on a Galaxy A54; meant for most Andr
 
 This card
 ---------
-  Spectre.apk                 the app (debug / field build, ~59 MB)
-  Spectre_User_Manual.pdf     user manual v1.8.130 (screenshots: Privacy mode on; Live display shots BLE only)
+  Spectre.apk                 the app (sideload build)
+  Spectre_User_Manual.pdf     user manual v1.8.140 (screenshots: Privacy mode on; Live display shots BLE only)
   instruction.txt             this file
 
 SHA-256 of Spectre.apk:
-  bb3fe9e0e97718e26af280f7d954af768dec3993b04d58fb1940bfc600304bb5
+  76474f121d9aa69367dc3f90f82f36e22570ff36fa6f35c9a99b4b3e48b6e5b4
 
 Spectre is experimental software. Use at your own risk. It does not guarantee
 that trackers or other devices will be found. Each phone has radio limits
@@ -390,7 +390,7 @@ Limits
   • No direction finding. RSSI is loudness, not distance
   • Live holds about 400 radios (hard cap 900). Debrief reads that
     same RAM, not the log. On a drive, tap Debrief more than once.
-  • This is a debug field build: not Play-signed, no auto-update
+  • Sideload build: not Play-signed, no auto-update
 
 Read Spectre_User_Manual.pdf for install / permissions / max collection (§4, §4.5),
 Live Display (Sort, Title/Subtitle, extras, §5.3),
