@@ -8,7 +8,7 @@ I have been using it and iterating on it for a while now, and it has been useful
 
 This is a hobby — something I do for fun in my spare time. There is no Spectre backend. Everything lives on the phone. This repository is the sideload set: APK, instruction card, and user manual.
 
-If you try it and have constructive feedback, I’m interested. Together we can make it better. I hope you find it as useful as I have. I look forward to hearing how it goes.
+If you spot an error, something stupid, or have a feature idea — in the App or the documentation — please open a GitHub issue. This is how we make it better. I hope you find it as useful as I have. I look forward to hearing how it goes.
 
 ## Safety & disclaimer
 
@@ -18,8 +18,6 @@ This is a hobby project, shared as-is for anyone who wants to use it. A few thin
 - There is no guarantee that trackers, cameras, tags, access points, or any other device will be found, named, or reported. Radios that are off, cellular-only, asleep, randomized, quiet, or outside what this handset’s OS exposes will not appear. Each phone has its own radios, firmware, scan quotas, and OEM battery policies. Software cannot address those limits.
 - Pattern matches, GPS co-travel (“Moving with you” / “possible tail”), Debrief language, and AI Export output are hypotheses — not identity, not a legal finding, and not a complete RF capture. You are solely responsible for how you use this app and this document, and for complying with local law. By using the software or this manual you accept these terms.
 - Location data, if tagging is on, is this phone at hear-time — not the other radio. There is no Spectre server. Stamps stay on the handset until you share them. Logs keep full coordinates even when Privacy mode masks the screen and sit reports. Debrief, Share log, AI Export (sit or one radio), and radio-detail Share as text can take that path off the phone. Online place names use the system geocoder (often the OEM / Google network), not a Spectre cloud. How you store, share, or publish those files is your responsibility.
-
-If you spot an error, something stupid, or have a feature idea — in the APK or the documentation — please open a GitHub issue. This is how we make it better.
 
 ## Put it on a phone
 
