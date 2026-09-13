@@ -6,7 +6,7 @@ My goals were to have a modern interface that was easy to use, flexible in how i
 
 I have been using it and iterating on it for a while now, and it has been useful enough that I thought I would share it.
 
-This is a hobby — something I do for fun in my spare time. There is no Spectre backend. Everything lives on the phone. This repository is the sideload set: APK, instruction card, and user manual.
+This is a hobby — something I do for fun in my spare time. There is no Spectre backend. There are no ads. Everything lives on the phone. This repository is the sideload set: APK, instruction card, and user manual.
 
 If you spot an error, something stupid, or have a feature idea — in the App or the documentation — please open a GitHub issue. This is how we make it better. I hope you find it as useful as I have. I look forward to hearing how it goes.
 
