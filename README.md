@@ -19,7 +19,7 @@ This is a hobby project, shared as-is for anyone who wants to use it. A few thin
 - Pattern matches, GPS co-travel (“Moving with you” / “possible tail”), Debrief language, and AI Export output are hypotheses — not identity, not a legal finding, and not a complete RF capture. You are solely responsible for how you use this app and this document, and for complying with local law. By using the software or this manual you accept these terms.
 - Location data, if tagging is on, is this phone at hear-time — not the other radio. There is no Spectre server. Stamps stay on the handset until you share them. Logs keep full coordinates even when Privacy mode masks the screen and sit reports. Debrief, Share log, AI Export (sit or one radio), and radio-detail Share as text can take that path off the phone. Online place names use the system geocoder (often the OEM / Google network), not a Spectre cloud. How you store, share, or publish those files is your responsibility.
 
-If you spot an error, something stupid, or have a feature idea — in the APK or the documentation — please open a GitHub issue.
+If you spot an error, something stupid, or have a feature idea — in the APK or the documentation — please open a GitHub issue. This is how we make it better.
 
 ## Put it on a phone
 
