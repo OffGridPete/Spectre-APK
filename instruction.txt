@@ -7,11 +7,11 @@ Needs Android 10 or newer (API 29+). Tested on a Galaxy A54; meant for most Andr
 This card
 ---------
   Spectre.apk                 the app (sideload build)
-  Spectre_User_Manual.pdf     user manual v1.8.147 (screenshots: Privacy mode on; Live display shots BLE only)
+  Spectre_User_Manual.pdf     user manual v1.8.148 (screenshots: Privacy mode on; Live display shots BLE only)
   instruction.txt             this file
 
 SHA-256 of Spectre.apk:
-  41587e7fa082f9c07331d76ea65961c64d0dff9de919a3952594a79a83e0bd63
+  693c1f45ab06210753c4dccca46903dfe47c3f3b3149613e5687367b94563c57
 
 Spectre is experimental software. Use at your own risk. It does not guarantee
 that trackers or other devices will be found. Each phone has radio limits
