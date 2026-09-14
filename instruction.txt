@@ -7,11 +7,11 @@ Needs Android 10 or newer (API 29+). Tested on a Galaxy A54; meant for most Andr
 This card
 ---------
   Spectre.apk                 the app (sideload build)
-  Spectre_User_Manual.pdf     user manual v1.8.145 (screenshots: Privacy mode on; Live display shots BLE only)
+  Spectre_User_Manual.pdf     user manual v1.8.147 (screenshots: Privacy mode on; Live display shots BLE only)
   instruction.txt             this file
 
 SHA-256 of Spectre.apk:
-  9bfbe285f3f0221b05956b1199419e28acfd346facaaa9d394447f149a8b7908
+  41587e7fa082f9c07331d76ea65961c64d0dff9de919a3952594a79a83e0bd63
 
 Spectre is experimental software. Use at your own risk. It does not guarantee
 that trackers or other devices will be found. Each phone has radio limits
@@ -188,9 +188,12 @@ Max collection (battery is the cost) — full walk-through:
                class chips further down — Show only, then Save current as… if
                you want a named preset. Live only — matching always labels.
                Moving with you sits under Radios to show;
-               New detections only sits under it. Signatures only sits just
-               above the class chips. The Moving with you switch starts a
-               follow test on all radios. It clears Signatures only and
+               New detections only sits under it. Signatures only, Watched
+               only, and Named radios only sit just above the class chips.
+               Watched only keeps bookmarked signature matches and Named
+               radios with Alert on (Hide these still applies). The Moving
+               with you switch starts a follow test on all radios. It
+               clears Signatures only, Watched only, Named radios only, and
                class Show only so those filters do not empty the list.
                Class chips sit two across with the same glyphs as Live.
                Show only or Hide these. Empty Show

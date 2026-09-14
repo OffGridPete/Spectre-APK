@@ -44,7 +44,7 @@ adb install -r Spectre.apk
 SHA-256 of `Spectre.apk`:
 
 ```
-9bfbe285f3f0221b05956b1199419e28acfd346facaaa9d394447f149a8b7908
+41587e7fa082f9c07331d76ea65961c64d0dff9de919a3952594a79a83e0bd63
 ```
 
 ## What Spectre is not
