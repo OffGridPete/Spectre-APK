@@ -7,7 +7,7 @@ Needs Android 10 or newer (API 29+). Tested on a Galaxy A54; meant for most Andr
 This card
 ---------
   Spectre.apk                 the app (sideload build)
-  Spectre_User_Manual.pdf     user manual v1.8.148 (screenshots: Privacy mode on; Live display shots BLE only)
+  Spectre_User_Manual.pdf     user manual v1.8.149 (screenshots: Privacy mode on; Live display shots BLE only)
   instruction.txt             this file
 
 SHA-256 of Spectre.apk:
