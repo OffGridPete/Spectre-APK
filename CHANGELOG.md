@@ -2,6 +2,10 @@
 
 Newest first. This is the sideload APK at [OffGridPete/Spectre-APK](https://github.com/OffGridPete/Spectre-APK), not source. Each build below is what Settings shows as the Spectre version.
 
+## 1.2.14 — 15 September 2026
+
+- Android 12–14: Spectre could crash on the first BLE advertisement. Fixed. Android 15 still shows Public / Random from the stack.
+
 ## 1.2.13 — 15 September 2026
 
 - The APK is not a debug build. With USB debugging on, adb can no longer read Spectre’s private data folder without root (including full GPS logs that Privacy mode only masks on screen).

@@ -45,7 +45,7 @@ adb install -r Spectre.apk
 SHA-256 of `Spectre.apk`:
 
 ```
-f8d9e6379defe2fc5cbaede9a069278eff70c78fbda7155daeb5dc5aa63b0ab1
+ba28c2a9ec3163a22456e803726f0e73a53eafa6543de30259be7a2761e26974
 ```
 
 What changed in each build: [CHANGELOG.md](CHANGELOG.md).
