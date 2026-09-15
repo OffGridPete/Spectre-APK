@@ -33,6 +33,7 @@ This is a hobby project, provided as-is under the SPECTRE LICENSE. A few things 
 | `Spectre.apk` | Sideload APK |
 | `instruction.txt` | Permissions, first launch |
 | `Spectre_User_Manual.pdf` | User manual |
+| `CHANGELOG.md` | What changed in each build |
 | `LICENSE` | SPECTRE LICENSE |
 
 Android 10+. Copy `Spectre.apk` onto the phone (USB, Drive, or Files) and open it. Allow install from the app you used to open the APK. Play Protect may warn that it is not from Play — expected. Full steps are in `instruction.txt`.
@@ -46,6 +47,8 @@ SHA-256 of `Spectre.apk`:
 ```
 f8d9e6379defe2fc5cbaede9a069278eff70c78fbda7155daeb5dc5aa63b0ab1
 ```
+
+What changed in each build: [CHANGELOG.md](CHANGELOG.md).
 
 ## What Spectre is not
 
